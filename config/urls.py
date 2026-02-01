@@ -24,5 +24,6 @@ def hello_world(_request):
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', hello_world),
     path('hello-world', hello_world),
 ]
