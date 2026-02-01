@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-trp6cu_(%0igyf0gq0@2nfbe!0fgi@^d0al$yta!!q2&r8cq4)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["helloworldfly.fly.dev"]
 
 
 # Application definition
